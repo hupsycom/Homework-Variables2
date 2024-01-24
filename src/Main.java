@@ -21,6 +21,7 @@ public class Main {
 
 
 
+
         int intValue = -159;
         System.out.println("Значение переменной intValue с типом int равно " + intValue);
 
