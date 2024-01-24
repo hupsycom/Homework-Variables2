@@ -22,7 +22,7 @@ public class Main {
 
 
         int intValue = -159;
-        System.out.println("Значение переменной intValue2 с типом int равно " + intValue);
+        System.out.println("Значение переменной intValue с типом int равно " + intValue);
 
         byte byteValue = 67;
         System.out.println("Значение переменной byteValue с типом byte равно " + byteValue);
